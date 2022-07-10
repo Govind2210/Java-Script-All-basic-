@@ -1,5 +1,5 @@
-# Java-Script-All-basic-
-This the basic of Java Script - 1
+# Java-Script-All-basic
+This the basic of Java Script - 1 
 
  
  //------------------------------------------------------------Notes--------------------------------------------------------------------------------------------
